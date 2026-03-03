@@ -2,7 +2,7 @@
 
 A Streamlit dashboard for monitoring silent failures in a sales data pipeline.
 
-→ [Full documentation](README.md)
+→ [Full documentation](https://github.com/ChibuikeOnuba/ETL-Pipeline-Silent-Failure-Detection/blob/main/silent_failure_monitor.pdf)
 
 ---
 
