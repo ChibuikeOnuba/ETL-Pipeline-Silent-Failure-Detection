@@ -1,4 +1,4 @@
-# SalesFlowMonitor — Dashboard
+# Silent Failure Monitor — Dashboard
 
 A Streamlit dashboard for monitoring silent failures in a sales data pipeline.
 
@@ -8,16 +8,16 @@ A Streamlit dashboard for monitoring silent failures in a sales data pipeline.
 
 ### Overview
 
-![Dashboard Overview](screenshot_dashboard.png)
+![Dashboard Overview](images/screenshot_dashboard.png)
 
 ---
 
 ### Check Type Matrix & Stage Results
 
-![Check Type Matrix](screenshot_matrix.png)
+![Check Type Matrix](images/screenshot_matrix.png)
 
 ---
 
 ### Run History & Raw Data Explorer
 
-![Run History](screenshot_results.png)
+![Run History](images/screenshot_results.png)
